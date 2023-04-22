@@ -3,6 +3,8 @@
     <div class="chatLeft" style="width:20%" v-show="showPersonList">
       <div class="title" style="text-align: center;">
         <h2>探索分享OpenAI</h2>
+        <br><p><a href="https://shop.iosshop.xyz?code=YT05JmI9MTI0" target="_blank"
+                        rel="noopener noreferrer"> 购买key：点击</a></p>
       </div>
       <div class="online-person" style="margin-top: 5%;">
         <el-row :gutter="24">
@@ -148,7 +150,8 @@
               @click="SettingStatus = index" :class="{ active: SettingStatus === index }"> {{ setting.name }} </span>
           </el-col>
         </el-row>
-
+<p><a href="https://shop.iosshop.xyz?code=YT05JmI9MTI0" target="_blank"
+                        rel="noopener noreferrer"> 购买key：点击</a></p>
         <div class="s-wrapper" style="height: 75vh;">
 
 
